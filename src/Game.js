@@ -1,4 +1,5 @@
 import React,{useState} from 'react'
+
 import styles from './Game.module.css'
 function Game() {
   const [score, setScore] = useState(0);
